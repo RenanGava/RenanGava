@@ -3,7 +3,6 @@
 - 🔭 Procuro Trabalhar com Front-End
 - 🌱 Estudando ReactJS, TypeScript, Javascript e styled-Components
 - 📫 Entre em contato comigo no email: renandellecrodegava7040@gmail.com
-- 😄 Pronouns: ele/dele
 <div align="center">
   <a href="https://github.com/RenanGava">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RenanGava&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
